@@ -1,8 +1,12 @@
-/* main page */
+
 /* header */
 body {
 font-family: 'Trebuchet MS', sans-serif;
 
+}
+
+.strong {
+  font-weight: bold;
 }
 
 .container {
@@ -38,9 +42,7 @@ font-family: 'Trebuchet MS', sans-serif;
 }
 
 /* body+text */
-a:hover {
 
-}
 
 .panel-body{
   padding: 20px;
@@ -71,6 +73,6 @@ line-height: 200%;
 /* Git */
 
 .projects {
-  padding: 20px;
+  padding: 30px;
   line-height: 200%;
 }
