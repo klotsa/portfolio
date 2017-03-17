@@ -40,6 +40,10 @@ a:hover {
 
 }
 
+.panel-body{
+  padding: 20px;
+}
+
 .body-text {
 font-size: 1.5em;
 font-family: Helvetica, sans-serif;
@@ -56,7 +60,7 @@ line-height: 200%;
   text-align: center;
   padding-top: 10px;
   margin: 30px;
-  
+
 
 }
 /* about */
