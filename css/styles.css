@@ -1,6 +1,12 @@
 /* main page */
 /* header */
+body {
 
+}
+
+.container {
+
+}
 .jumbotron {
   background-image: url("../img/5.jpg");
   width:100%;
@@ -32,7 +38,7 @@ line-height: 200%;
 }
 
 .text-box {
-  padding: 30px;
+  padding: 70px;
 }
 /* footer */
 
