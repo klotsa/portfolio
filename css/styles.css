@@ -1,6 +1,7 @@
 /* main page */
 /* header */
 body {
+font-family: 'Trebuchet MS', sans-serif;
 
 }
 
@@ -20,6 +21,7 @@ body {
   text-align: center;
   color: white;
   font-size: 3em;
+  font-weight: bolder;
 }
 
 .face {
@@ -46,7 +48,7 @@ a:hover {
 
 .body-text {
 font-size: 1.5em;
-font-family: Helvetica, sans-serif;
+font-family: 'Trebuchet MS', sans-serif;
 line-height: 200%;
 
 }
@@ -67,3 +69,8 @@ line-height: 200%;
 
 
 /* Git */
+
+.projects {
+  padding: 20px;
+  line-height: 200%;
+}
