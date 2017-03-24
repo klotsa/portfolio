@@ -7,10 +7,11 @@
 ## Description
 
 _This is web portfolio with a short bio, links to github projects and linkedin profile_
+_https://klotsa.github.io/portfolio/_
 
 ## Setup/Installation Requirements
 
-* _Requires a hosting, internet connection, and device with a browser_
+* _Requires a hosting, internet connection, and a device with a browser_
 
 _No special Installation is required_
 
